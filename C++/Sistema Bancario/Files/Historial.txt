@@ -1,0 +1,28 @@
+----------------------------------------
+2023/11/21 - 14:38:14
+<<<< Cuenta Creada >>>>
+Titular: Pepe Alfonso
+Contraseña: Pastafloraconpalta720p
+----------------------------------------
+2023/11/21 - 14:38:14
+<<<< Actualizacion de Contraseña >>>>
+Titular: Pepe Alfonso
+Contraseña anterior: Pastafloraconpalta720p
+Contraseña nueva: PastafloraconPalta_720p
+----------------------------------------
+2023/11/21 - 14:38:14
+<<<< Dinero Ingresado >>>>
+Titular: Pepe Alfonso
+Dinero ingresado: 1000
+Fondos disponibles: 1420.42
+----------------------------------------
+2023/11/21 - 14:38:14
+<<<< Dinero Retirado >>>>
+Titular: Pepe Alfonso
+Dinero retirado: 1000
+Fondos disponibles: 420.42
+----------------------------------------
+2023/11/21 - 14:38:14
+<<<< Cuenta Eliminada >>>>
+Titular: Pepe Alfonso
+Contraseña: PastafloraconPalta_720p
