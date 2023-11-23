@@ -16,3 +16,7 @@ Podes utilizar el programa para calcular Areas y Perimetros en cm de 3 formas ge
 - Cuadrados
 - Rectangulos
 - Circulos
+
+## Link al repostorio original
+
+En el siguiente link se puede acceder al [repositorio original](https://github.com/matimansi/LE_6to_Geometria.git) del codigo
