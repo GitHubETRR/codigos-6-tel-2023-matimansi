@@ -1,0 +1,17 @@
+Considere un archivo de texto llamado "puntos.txt" que contiene coordenadas
+cartesianas de puntos en el plano, uno por línea.
+Cada línea tiene dos números separados por espacio,
+que representan las coordenadas x e y de un punto.
+
+Por ejemplo:
+2.567 4.891
+-1.234 3.456  
+0.789 -2.345
+
+Escribe un programa en C que lea las coordenadas de los puntos desde el archivo "puntos.txt"
+y calcule la distancia euclidiana entre cada par de puntos consecutivos.
+Luego, muestra la distancia mínima, la distancia máxima y la distancia promedio entre los puntos.
+
+Puedes utilizar la fórmula de la distancia euclidiana entre dos puntos en el plano:
+distancia = sqrt((x2 - x1)^2 + (y2 - y1)^2)
+Donde (x1, y1) y (x2, y2) son las coordenadas de dos puntos consecutivos.
