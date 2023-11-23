@@ -13,3 +13,7 @@ Podrás encontrar un archivo de texto donde podrás ingresar los 3 puntos. Una v
 # Historial
 
 Una vez que hayas ejecutado la aplicación, podrás encontrar un archivo de texto donde tendrás acceso a un historial de tus cálculos, con fecha y hora del cálculo, los datos ingresados y los resultados obtenidos.
+
+## Link al repostorio original
+
+En el siguiente link se puede acceder al [repositorio original](https://github.com/matimansi/LE_6to_Distancia_Euclidiana.git) del codigo
