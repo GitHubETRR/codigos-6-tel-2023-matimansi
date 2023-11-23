@@ -20,3 +20,7 @@ Con el programa se puede "simular" un cajero automatico, el cual posee una base 
 - Cambiar contraseña
 - Acceder a los fondos
 - Retirar e ingresar dinero
+
+## Link al repositorio original
+
+En el siguiente link se puede acceder al [repositorio original](https://github.com/matimansi/LE_6to_Sistema_Bancario.git) del codigo
