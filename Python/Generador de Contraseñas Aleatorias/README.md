@@ -17,3 +17,7 @@ Cuando se ejecute el programa, solo se debera ingresar una longitud (debe ser ma
 # Problema con .EXE
 
 No he podido convertir el arhivo .py a .exe para su debida distribucion. Debido a que la extencion .py, al darle doble click, se muestra el CMD y la interfaz debi cambiar la extension del archivo a .pyw. Dicha extension no posee el problema de la apertura de el CMD.
+
+## Link al repostorio original
+
+En el siguiente link se puede acceder al [repositorio original](https://github.com/matimansi/LE_6to_Generador_Contra_Aleatoria.git) del codigo
